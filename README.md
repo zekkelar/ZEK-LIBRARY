@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="[https://i.ibb.co/ZKhtd7V/Untitled-1.png](https://i.ibb.co/CJqYnPC/Instagram-post-1.jpg)" alt="Music Player">
+    <img src="https://i.ibb.co/ZKhtd7V/Untitled-1.png alt="Music Player">
   </a>
 </p>
 
