@@ -30,3 +30,24 @@ HOST_DATABASE = "localhost" #HOST
 NAME_DATABASE = "zelib" #NAME 
 URL = "127.0.0.1" #URL (localhost:127.0.0.1)
 ```
+
+# INSTALLATION (C# SETTINGS)
+## FIRST SETTINGS
+```
+ZekLIB\ZekLIB\bin\Debug\config.json
+```
+```
+url = input URL where you locate backend, if use localhost
+default is localhost:5000
+update = (default=no)
+{
+	"url":"http://127.0.0.1:5000/", 
+	"update":"no"
+}
+```
+
+
+
+
+
+
